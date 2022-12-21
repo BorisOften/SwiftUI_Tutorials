@@ -11,6 +11,7 @@
 		81006DC52953451F0059093C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81006DC42953451F0059093C /* ContentView.swift */; };
 		81006DC7295345210059093C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81006DC6295345210059093C /* Assets.xcassets */; };
 		81006DCA295345210059093C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81006DC9295345210059093C /* Preview Assets.xcassets */; };
+		81006DD1295346A60059093C /* Gradient_Tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81006DD0295346A60059093C /* Gradient_Tutorial.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		81006DC42953451F0059093C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		81006DC6295345210059093C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81006DC9295345210059093C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		81006DD0295346A60059093C /* Gradient_Tutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradient_Tutorial.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				81006DC22953451F0059093C /* SwiftUI_TutorialsApp.swift */,
 				81006DC42953451F0059093C /* ContentView.swift */,
+				81006DD0295346A60059093C /* Gradient_Tutorial.swift */,
 				81006DC6295345210059093C /* Assets.xcassets */,
 				81006DC8295345210059093C /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				81006DC52953451F0059093C /* ContentView.swift in Sources */,
+				81006DD1295346A60059093C /* Gradient_Tutorial.swift in Sources */,
 				81006DC32953451F0059093C /* SwiftUI_TutorialsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
