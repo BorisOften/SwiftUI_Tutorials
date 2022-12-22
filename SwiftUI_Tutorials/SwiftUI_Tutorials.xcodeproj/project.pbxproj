@@ -13,6 +13,7 @@
 		81006DCA295345210059093C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81006DC9295345210059093C /* Preview Assets.xcassets */; };
 		81006DD1295346A60059093C /* Gradient_Tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81006DD0295346A60059093C /* Gradient_Tutorial.swift */; };
 		81006DD329534AAA0059093C /* Icons_Tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81006DD229534AAA0059093C /* Icons_Tutorial.swift */; };
+		81006DD52954CE2B0059093C /* Image_Tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81006DD42954CE2B0059093C /* Image_Tutorial.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		81006DC9295345210059093C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		81006DD0295346A60059093C /* Gradient_Tutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradient_Tutorial.swift; sourceTree = "<group>"; };
 		81006DD229534AAA0059093C /* Icons_Tutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons_Tutorial.swift; sourceTree = "<group>"; };
+		81006DD42954CE2B0059093C /* Image_Tutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image_Tutorial.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				81006DC42953451F0059093C /* ContentView.swift */,
 				81006DD229534AAA0059093C /* Icons_Tutorial.swift */,
 				81006DD0295346A60059093C /* Gradient_Tutorial.swift */,
+				81006DD42954CE2B0059093C /* Image_Tutorial.swift */,
 				81006DC6295345210059093C /* Assets.xcassets */,
 				81006DC8295345210059093C /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 				81006DC52953451F0059093C /* ContentView.swift in Sources */,
 				81006DD1295346A60059093C /* Gradient_Tutorial.swift in Sources */,
 				81006DD329534AAA0059093C /* Icons_Tutorial.swift in Sources */,
+				81006DD52954CE2B0059093C /* Image_Tutorial.swift in Sources */,
 				81006DC32953451F0059093C /* SwiftUI_TutorialsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
